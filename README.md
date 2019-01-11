@@ -7,8 +7,8 @@ follow the tutorial on this page!
 https://www.youtube.com/playlist?list=PLN3n1USn4xllZIJyrGvCu5ihs2GoMtk1Q)
 
 
-clone and then npm install to install node_modules then
-run commanad for run application : `npm start` / `yarn start`
+Clone and then npm install to install node_modules then.
+Run commanad for run application : `npm start` / `yarn start`
 # basic react form
 
 
